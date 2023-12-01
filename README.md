@@ -66,8 +66,8 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 <hr/>
 <br/>
 <a> 
-    <a href="https://github.com/rony53"><img alt="Mahbub hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rony53&show_icons=true&count_private=true&theme=nodejs&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/rony53"><img alt="Mahbub hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rony53&langs_count=8&layout=compact&theme=nodejs&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/rony53"><img alt="Mahbub hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rony53&show_icons=true&count_private=true&theme=aura&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/rony53"><img alt="Mahbub hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rony53&langs_count=8&layout=compact&theme=aura&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
