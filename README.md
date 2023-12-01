@@ -55,13 +55,13 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/rony53">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rony53&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/rony53">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rony53&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
@@ -69,12 +69,11 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 <hr/>
 <br/>
 <a> 
-    <a href="https://github.com/rony53"><img alt="Mahbub hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rony53&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/rony53"><img alt="Mahbub hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rony53&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/rony53"><img alt="Mahbub hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rony53&show_icons=true&count_private=true&theme=nodejs&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/rony53"><img alt="Mahbub hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rony53&langs_count=8&layout=compact&theme=nodejs&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rony53&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/rony53)
 
 ## 📫 Let's Connect
 
