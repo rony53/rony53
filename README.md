@@ -10,9 +10,6 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
  📧 &emsp; Reach me anytime: rony_ahmedd@yahoo.com<br/><br/>
 
 </p>
-<br/>
-<br/>
-<br/>
 <p align="center">
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -34,6 +31,9 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
   </a> 
 </p>
 <br />
+<br/>
+<br/>
+<br/>
 
 ## 🚀 Skills
 
