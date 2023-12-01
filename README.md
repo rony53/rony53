@@ -10,23 +10,6 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
  📧 &emsp; Reach me anytime: rony_ahmedd@yahoo.com<br/><br/>
 
 </p>
-<p align="center">
- <a href="https://ronbd.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mahbub" />
- </a>
- <a href="https://www.linkedin.com/in/mahbub-hasan-2b635650" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahbub"/>
- </a>
- <a href="https://twitter.com/Mahbub53" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/rony_ahmedd/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Mahbub" />
- </a> 
- <a href="https://www.facebook.com/mahbub.hasan.121/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Mahbub"  />
-  </a> 
-</p>
 <br />
 <br/>
 <br/>
@@ -71,6 +54,22 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/mahbub-hasan-2b635650))
+<p align="center">
+ <a href="https://ronbd.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mahbub" />
+ </a>
+ <a href="https://www.linkedin.com/in/mahbub-hasan-2b635650" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahbub"/>
+ </a>
+ <a href="https://twitter.com/Mahbub53" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/rony_ahmedd/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Mahbub" />
+ </a> 
+ <a href="https://www.facebook.com/mahbub.hasan.121/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Mahbub"  />
+  </a> 
+</p>
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities. Happy coding! 🚀
