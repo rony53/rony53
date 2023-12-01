@@ -50,9 +50,6 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 
 ## 📈 GitHub Stats
 
-<br/>
-<hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/rony53">
