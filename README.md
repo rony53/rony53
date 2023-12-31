@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 
 ## 💼 Experience
 
-### Senior Web Developer | Sittm Inc (USA) | 7 Years - Present
+### Senior Web Developer | Sittm Inc (USA) | 8 Years
 
 - Led a team of developers in designing and implementing scalable web applications.
 - Collaborated with UX/UI designers to create seamless user experiences.
