@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 - Collaborated with cross-functional teams to deliver high-quality products.
 - Conducted code reviews and provided mentorship to junior developers.
 
-### Web Developer | WORLD BANK & LGSP-3 | 6 Month
+### Web Developer | TechnoVista Limited | 6 Month
 
 - Develop 12 Modules (with offline features) In Laravel.
 - Develop mobile apps With API integration..
