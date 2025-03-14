@@ -53,13 +53,13 @@ Welcome to my GitHub profile! I'm passionate about web development, with a focus
 
 <p align="center">
   <a href="https://github.com/rony53">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rony53&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rony53&theme=radical&border=7F3FBF&background=0D1117" alt="Mahbub's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rony53">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rony53&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rony53&theme=radical" alt="Mahbub's GitHub Contribution"/>
   </a>
 </p>
 <br/>
